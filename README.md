@@ -6,4 +6,4 @@ Due to the simplicity and instructional nature of the task, little feature extra
 Improvement can be found by extracting more features, using a CNN, or using edge detection.
 
 
-*Because Github does not allow uploads of files greater than 25MB in size, I am not able to include the dataset. It can be found here: [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
+*Because Github does not allow uploads of files greater than 25MB in size, I am not able to include the dataset. It can be found here: [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)*
